@@ -41,23 +41,3 @@ Displays the show title, cover image, description and lists all reviews in a tab
 In case there are reviews it displays total number of reviews and average rating. On bottom of the screen there is a _Write a review_ button which opens write a review screen. This screen should also have a pull to refresh functionality. 
 
 ![Show details with reviews](/Design/Screenshots/08.png "Show details with reviews")
-
-## 5. Write a review
-
-Shows a form for creating a new review. It has a rating picker as a star picker, review text input field and submit button. Each star represents rating from 1 to 5.
-
-![Write a review disabled](/Design/Screenshots/09.png "Write a review disabled")
-
-Submit button should be disabled until rating is picked and some text is entered.
-
-![Write a review enabled](/Design/Screenshots/10.png "Write a review enabled")
-
-Tapping on the submit button should trigger [create a review API call](https://tv-shows.infinum.academy/api/v1/docs/index.html#tag/Reviews/paths/~1reviews/post). If it’s successful an app should navigate back to the previous screen and refresh the list. If there’s an error while creating a new review, present it to the user.
-
-## 6. Profile details
-
-![Profile details](/Design/Screenshots/06.png "Profile details")
-
-Displays user email and his profile photo. Change profile photo button triggers an action to add a profile photo via camera or photo library. Image upload API call is explained under `AWS Upload image` section in API docs. API has a 1MB limit on file size.
-
-> NOTE: You can use UI elements of your choice (e.g. UITableView,  UICollectionView, UIStackView, UIScrollView).
