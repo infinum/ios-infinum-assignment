@@ -31,13 +31,3 @@ Displays a list of TV shows you get from [shows API call](https://tv-shows.infin
 Tapping on a show navigates to its details screen. Top right navigation item opens a profile details screen where user can display and edit its profile and logout.
 
 ![Shows](/Design/Screenshots/04.png "Shows")
-
-## 4. Show details
-
-Displays the show title, cover image, description and lists all reviews in a table view. Show details are fetched from [display show API call](https://tv-shows.infinum.academy/api/v1/docs/index.html#tag/Tv-Shows/paths/~1shows~1{id}/get), while reviews are fetched from [reviews API call](https://tv-shows.infinum.academy/api/v1/docs/index.html#tag/Reviews/paths/~1shows~1{show_id}~1reviews/get)
-
-![Show details](/Design/Screenshots/07.png "Show details")
-
-In case there are reviews it displays total number of reviews and average rating. On bottom of the screen there is a _Write a review_ button which opens write a review screen. This screen should also have a pull to refresh functionality. 
-
-![Show details with reviews](/Design/Screenshots/08.png "Show details with reviews")

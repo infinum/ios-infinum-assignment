@@ -6,13 +6,12 @@ The final product should be functional app that is consisted of the following sc
  * Splash screen
  * Login
  * Home
- * Details
 
 You can find a description for every screen [here](SCREENS.md).
 
 ## About the app
 
-TV Shows is a simple app that helps you keep track of shows you watched. You can login with it, and see every TV show in a list, including their details and their reviews with ratings.
+TV Shows is a simple app that helps you keep track of shows you watched. You can login with it, and see every TV show in a list.
 
 App design is hosted on Figma [here](https://www.figma.com/file/lnQPlX7RTX8Fqr31FOKEde/tv_shows_ios_2021). If you are not familiar with the Figma, there are exported icons, images and screens in the `Design` folder. You don't have to replicate the design in a pixel, but try to make it as similar as possible.
 
