@@ -77,7 +77,7 @@ We don't have a formal system for grading, but we will be looking at it in the f
 
 * How you organize your code is important
 * Although MVC is good enough for a project of this scale, we encourage you to use MVVM or VIPER if you have any experience with these architectures (we have some OS VIPER templates [here](https://github.com/infinum/iOS-VIPER-Xcode-Templates))
-* Please try out [RxSwift](https://github.com/ReactiveX/RxSwift) or [Combine](https://developer.apple.com/documentation/combine) on at least one screen/module
+* Its not mandatory but we encourage you to try out [RxSwift](https://github.com/ReactiveX/RxSwift) or [Combine](https://developer.apple.com/documentation/combine) on at least one screen/module
 
 ### Code style
 
