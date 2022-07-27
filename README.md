@@ -73,12 +73,6 @@ AF
 
 We don't have a formal system for grading, but we will be looking at it in the following way:
 
-### Architecture
-
-* How you organize your code is important
-* It's not mandatory but we encourage you to try out MVVM or VIPER if you have any experience with these architectures (we have some OS VIPER templates [here](https://github.com/infinum/iOS-VIPER-Xcode-Templates))
-* It's not mandatory but we encourage you to try out [RxSwift](https://github.com/ReactiveX/RxSwift) or [Combine](https://developer.apple.com/documentation/combine) on at least one screen/module
-
 ### Code style
 
 * We expect consistency in code regarding code style, variable naming and whitespace usage
@@ -89,19 +83,6 @@ We don't have a formal system for grading, but we will be looking at it in the f
 
 * The app should run immediately after checking out the repo
 * There should be no obvious performance issues and crashes
-
-### Advanced Swift usage
-
-Although the app is simple, we still expect you to demonstrate how well you use Swift language, e.g. through the following mechanisms:
-
-* higher-order functions
-* protocols
-* introuducing type-safe mechanisms, e.g. for view controllers
-* memory management
-* enums
-* etc.
-
-You could do without any of the above probably, but this is a place to show off your skills. Just don't go overboard and overengineer stuff.
 
 ### Third party library usage
 
