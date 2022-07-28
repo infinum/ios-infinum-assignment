@@ -67,7 +67,7 @@ AF
 * Use a [GitHub](https://github.com) and create private repository for this project
 * Use [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows#gitflow-workflow) branching strategy suitable for working in a team
 * Track the time spent working on the project
-* Once finished, please invite the following users as collaborators: ivanvecko, z-turk3, dimovskidamjan, kvaljeva
+* Once finished, please invite the following user as collaborator: infinum-ios-leads
 
 ## How will we grade your project?
 
@@ -113,4 +113,4 @@ Not mandatory, but very welcome. Stick to unit testing, UI tests would probably 
 
 ## FAQ
 
-In case of any questions feel free to reach out. Send email to any but prefferably all of the following conctacts and someone will get back to you as soon as possible: kresimir.valjevac@infinum.com, ivan.vecko@infinum.com, zoran.turk@infinum.com, damjan.dimovski@infinum.com
+In case of any questions feel free to reach out. Send email to ios.leads@infinum.hr and someone will get back to you as soon as possible.
